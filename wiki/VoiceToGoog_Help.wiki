@@ -1,5 +1,24 @@
-#summary One-sentence summary of this page.
+<p align="center"><font size=5>*Using !VoiceToGoog*</font></p>
+<p align="center">*Niels P. Mayer ( http://nielsmayer.com )*</p>
 
-= Help Using !VoiceToGoog =
+<wiki:toc max_depth="2" />
 
 == TBD ==
+
+== WIP ==
+
+== TBD ==
+
+== WIP ==
+
+== TBD ==
+
+== WIP ==
+
+== TBD ==
+
+== WIP ==
+
+== TBD ==
+
+== WIP ==
